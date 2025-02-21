@@ -5,16 +5,6 @@
 
 ![如何在 Telegram 上创建账户](https://media.geeksforgeeks.org/wp-content/uploads/20231024233846/How-to-create-an-account-on-Telegram.webp)
 
-目录
-
-- [什么是 Telegram Messenger](https://www.geeksforgeeks.org/how-to-create-account-on-telegram/#what-is-a-telegram-messenger)
-- [如何通过 iPhone 创建 Telegram 账户](https://www.geeksforgeeks.org/how-to-create-account-on-telegram/#how-to-create-a-telegram-account-from-an-iphone)
-- [如何在移动应用程序上创建 Telegram 账户](https://www.geeksforgeeks.org/how-to-create-account-on-telegram/#how-to-make-a-telegram-account-on-the-mobile-app)
-- [如何在桌面上创建 Telegram 账户](https://www.geeksforgeeks.org/how-to-create-account-on-telegram/#how-to-create-a-telegram-account-on-desktop)
-- [如何在没有电话号码的情况下使用 Telegram：5 种经过验证的方法](https://www.geeksforgeeks.org/how-to-create-account-on-telegram/#how-to-create-telegram-account-without-phone-number)
-- [如何使用同一号码创建新的 Telegram 帐户：2 种方法](https://www.geeksforgeeks.org/how-to-create-account-on-telegram/#how-to-create-new-telegram-account-with-same-number)
-- [如何在手机上退出 Telegram](https://www.geeksforgeeks.org/how-to-create-account-on-telegram/#how-to-log-out-telegram-on-mobile)
-
 ## 什么是 Telegram Messenger
 
 Telegram 是最常用的平台之一，以基于云的即时通讯应用而闻名。它由****Pavel Durov****和****Nikolai Durov****于 2013 年创建。Telegram 被所有类型的人广泛使用，无论是学生还是员工，因为它的特性和功能为人们提供了很大的帮助，Telegram 的一些功能包括消息传递、群聊、频道、贴纸、机器人等。Telegram 还以其端到端加密而闻名，它为 Telegram 提供了一个安全的环境。
